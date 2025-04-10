@@ -25,7 +25,7 @@ Passions:
   - Breaking & fixing the web 🕸️
 Currently learning:
   - C++, Python, JavaScript
-  - Linux, Node.js, React
+  - Kali Linux, Node.js, React
   - Network Security & Exploitation Tactics
 ```
 
