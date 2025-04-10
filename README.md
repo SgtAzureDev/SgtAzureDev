@@ -1,5 +1,5 @@
-<h1 align="center">🌌 Hey, I’m <span style="color:#9B59B6;">Sreelakshmi</span> (a.k.a. Nyx)</h1>
-<h3 align="center">🌙 Cyber explorer | Full-stack learner | Code + Cosmos = 💜</h3>
+<h1 align="center">🌌 Hey, I’m <span style="color:#9B59B6;">Sreelakshmi</span> (a.k.a. Sgt.Azure)</h1>
+<h3 align="center">🌙 Cyber explorer | Full-stack learner | Codes + Cosmos = 💜</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sgtazuredev&label=Visitors&color=6f42c1&style=flat-square" alt="Profile Views" />
@@ -11,7 +11,7 @@
 
 ```yaml
 Name: Sreelakshmi
-Alias: Nyx ☾
+Alias: Sgt.Azure
 Location: India 🇮🇳
 Passions:
   - Ethical Hacking & Cybersecurity 🔐
