@@ -1,15 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sreelakshmi</h1>
-<h3 align="center">A passionate tech enthusiast from India</h3>
+<h1 align="center">🌌 Hey, I’m <span style="color:#9B59B6;">Sreelakshmi</span> (a.k.a. Nyx)</h1>
+<h3 align="center">🌙 Cyber explorer | Full-stack learner | Code + Cosmos = 💜</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sgtazuredev&label=Profile%20views&color=0e75b6&style=flat" alt="sgtazuredev" />
+  <img src="https://komarev.com/ghpvc/?username=sgtazuredev&label=Visitors&color=6f42c1&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently diving into **Ethical Hacking and Cybersecurity**
-- 💻 Exploring the depths of **C++, Python, and JavaScript**
-- 🌌 Fueled by curiosity, night skies, and the thrill of learning
-
 ---
+
+### 🧠 About Me
+
+```yaml
+Name: Sreelakshmi
+Alias: Nyx ☾
+Location: India 🇮🇳
+Passions:
+  - Ethical Hacking & Cybersecurity 🔐
+  - Frontend & Backend Dev 🌐
+  - Building things that live in the dark
+  - Breaking & fixing the web 🕸️
+Currently learning:
+  - C++, Python, JavaScript
+  - Linux, Node.js, React
+  - Network Security & Exploitation Tactics
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
