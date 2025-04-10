@@ -22,6 +22,7 @@ Currently learning:
   - C++, Python, JavaScript
   - Linux, Node.js, React
   - Network Security & Exploitation Tactics
+```
 
 
 <h3 align="left">🌐 Connect with me:</h3>
