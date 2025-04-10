@@ -13,6 +13,11 @@
 Name: Sreelakshmi
 Alias: Sgt.Azure
 Location: India 🇮🇳
+Loves:
+  - Listening to music 🎵
+  - Supercars 🔥
+  - Stargazing 🌃
+  - The silence of Linux terminals 🔒
 Passions:
   - Ethical Hacking & Cybersecurity 🔐
   - Frontend & Backend Dev 🌐
