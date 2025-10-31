@@ -1,9 +1,6 @@
 <h1 align="center">🌌 Hey, I’m <span style="color:#9B59B6;">Sreelakshmi</span> (a.k.a. Sgt.Azure)</h1>
-<h3 align="center">🌙 Cyber explorer | Full-stack learner | Codes + Cosmos = 💜</h3>
+<h3 align="center">🌙 Cyber world explorer | Full-stack learner | Aspiring Data Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sgtazuredev&label=Visitors&color=6f42c1&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
@@ -16,17 +13,16 @@ Location: India 🇮🇳
 Loves:
   - Listening to music 🎵
   - Supercars 🔥
-  - Stargazing 🌃
+  - Lewis Hamilton 💘
   - The silence of Linux terminals 🔒
 Passions:
-  - Ethical Hacking & Cybersecurity 🔐
+  - Cybersecurity & Data analysis 🔐
   - Frontend & Backend Dev 🌐
-  - Building things that live in the dark
   - Breaking & fixing the web 🕸️
 Currently learning:
   - C++, Python, JavaScript
-  - Kali Linux, Node.js, React
-  - Network Security & Exploitation Tactics
+  - Kali Linux, Bash and Shell scripting
+  - Network Security & Threat Intelligence
 ```
 
 
