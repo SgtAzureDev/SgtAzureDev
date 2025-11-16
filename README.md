@@ -13,12 +13,11 @@ Location: India 🇮🇳
 Loves:
   - Listening to music 🎵
   - Supercars 🔥
-  - Lewis Hamilton 💘
   - The silence of Linux terminals 🔒
 Passions:
   - Cybersecurity & Data analysis 🔐
   - Frontend & Backend Dev 🌐
-  - Breaking & fixing the web 🕸️
+  - Breaking & fixing Linux 🕸️
 Currently learning:
   - C++, Python, JavaScript
   - Kali Linux, Bash and Shell scripting
