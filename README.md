@@ -12,7 +12,7 @@ Alias: Sgt.Azure
 Location: India 🇮🇳
 Loves:
   - Listening to music 🎵
-  - Supercars 🔥
+  - Automobiles 🔥
   - The silence of Linux terminals 🔒
 Passions:
   - Cybersecurity & Data analysis 🔐
