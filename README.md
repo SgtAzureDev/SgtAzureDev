@@ -8,7 +8,7 @@
 
 ```yaml
 👤 Personal:
-  Name: "Sreelakshmi"
+  Name: Sreelakshmi
   Alias: "Sgt.Azure"
   Location: "India 🇮🇳"
   Pronouns: "She/Her"
