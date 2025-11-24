@@ -78,13 +78,8 @@ Currently learning:
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgtazuredev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgtazuredev&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SgtAzureDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SgtAzureDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtAzureDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
