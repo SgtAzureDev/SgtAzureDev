@@ -25,13 +25,24 @@ Currently learning:
 ```
 
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/sreelakshmi-panicker-87506b342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreelakshmi-panicker-87506b342/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30234371/sgt-azuredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sgtazuredev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/astralunaris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/astralunaris/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/SgtAzureDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sgtazuredev/" height="30" width="40" /></a>
-<a href="https://discord.gg/sgt.azure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sgt.azure" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sreelakshmi-panicker-87506b342/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/30234371/sgt-azuredev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.instagram.com/astralunaris/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/SgtAzureDev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://discord.gg/sgt.azure" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
 </p>
 
 ---
