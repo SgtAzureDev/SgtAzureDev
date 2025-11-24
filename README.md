@@ -37,9 +37,6 @@ Currently learning:
   <a href="https://www.instagram.com/astralunaris/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/u/SgtAzureDev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
-  </a>
   <a href="https://discord.gg/sgt.azure" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
