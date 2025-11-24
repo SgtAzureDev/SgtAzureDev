@@ -61,7 +61,6 @@ Currently learning:
 ---
 
 # 📊 GitHub Stats:
-![](![SgtAzureDev's Stats](https://github-readme-stats.vercel.app/api?username=SgtAzureDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=false))<br/>
+![SgtAzureDev's Stats](https://github-readme-stats.vercel.app/api?username=SgtAzureDev&theme=dark&show_icons=true&hide_border=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SgtAzureDev&theme=dark&hide_border=false)<br/>
-![](![SgtAzureDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtAzureDev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact))
-
+![SgtAzureDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtAzureDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
