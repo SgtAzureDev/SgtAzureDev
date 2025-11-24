@@ -7,21 +7,40 @@
 ### 🧠 About Me
 
 ```yaml
-Name: Sreelakshmi
-Alias: Sgt.Azure
-Location: India 🇮🇳
-Loves:
-  - Listening to music 🎵
-  - Automobiles 🔥
-  - The silence of Linux terminals 🔒
-Passions:
-  - Cybersecurity & Data analysis 🔐
-  - Frontend & Backend Dev 🌐
-  - Breaking & fixing Linux 🕸️
-Currently learning:
-  - C++, Python, JavaScript
-  - Kali Linux, Bash and Shell scripting
-  - Network Security & Threat Intelligence
+👤 Personal:
+  Name: "Sreelakshmi"
+  Alias: "Sgt.Azure"
+  Location: "India 🇮🇳"
+  Pronouns: "She/Her"
+
+🎵 Interests & Hobbies:
+  - "Music Production & Listening 🎧"
+  - "Automobile Engineering 🏍️🔥"
+  - "Linux Terminal Aesthetics 🖥️"
+  - "Open Source Exploration 🔓"
+
+💻 Technical Passions:
+  - "Cybersecurity & Ethical Hacking 🔐"
+  - "Data Analysis & Visualization 📊"
+  - "Full-Stack Development 🌐"
+  - "Linux System Administration 🐧"
+  - "Breaking & Building Systems ⚡"
+
+🚀 Currently Mastering:
+  Languages:
+    - "C++ for System Programming"
+    - "Python for Automation & Security"
+    - "JavaScript for Full-Stack"
+  Technologies:
+    - "Kali Linux & Penetration Testing"
+    - "Bash/Shell Scripting Magic 🪄"
+    - "Network Security Protocols"
+    - "Threat Intelligence Analysis"
+
+🎯 Career Vision:
+  - "Bridge cybersecurity with development"
+  - "Create secure, efficient systems"
+  - "Contribute to open-source security tools"
 ```
 
 
