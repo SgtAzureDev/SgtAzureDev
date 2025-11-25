@@ -67,9 +67,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
-
 #### **Programming Languages**
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,arduino" />
 
