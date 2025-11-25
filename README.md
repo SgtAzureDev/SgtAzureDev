@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#9B59B6;">Sreelakshmi</span></h1><p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Aspiring+Threat+Intelligence+Analyst;Full-Stack+Developer;Linux+Enthusiast;Security+Researcher;Data+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007FFF&center=true&vCenter=true&width=600&lines=Aspiring+Threat+Intelligence+Analyst;Full-Stack+Developer;Linux+Enthusiast;Security+Researcher;Data+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
