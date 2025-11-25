@@ -1,6 +1,8 @@
-<h1 align="center">🌌 Hey, I’m <span style="color:#9B59B6;">Sreelakshmi</span> (a.k.a. Sgt.Azure)</h1>
-<h3 align="center">🌙 Cyber world explorer | Full-stack learner | Aspiring Data Analyst</h3>
-
+<h1 align="center">👋 Hey there! I'm <span style="color:#9B59B6;">Sreelakshmi</span></h1><p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Aspiring+Threat+Intelligence+Analyst;Full-Stack+Developer;Linux+Enthusiast;Security+Researcher;Data+Analyst" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -14,8 +16,8 @@
   Pronouns: She/Her
 
 🎵 Interests & Hobbies:
-  - Music Production & Listening 🎧
-  - Automobile Engineering 🏍️🔥
+  - Listening to Music 🎧
+  - Admiring Automobiles 🏍️🔥
   - Linux Terminal Aesthetics 🖥️
   - Open Source Exploration 🔓
 
@@ -33,13 +35,14 @@
     - JavaScript for Full-Stack
   Technologies:
     - Kali Linux & Penetration Testing
-    - Bash/Shell Scripting Magic 🪄
+    - Bash/Shell Scripting Magic 
     - Network Security Protocols
-    - Threat Intelligence Analysis
+    - Threat Intelligence and Analysis
 
 🎯 Career Vision:
   - Bridge cybersecurity with development
-  - Create secure, efficient systems
+  - Specialize in Cyber Threat Intelligence
+  - Analyze and mitigate emerging cyber threats
   - Contribute to open-source security tools
 ```
 
