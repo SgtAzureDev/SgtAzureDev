@@ -74,13 +74,14 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql" />
 
 #### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash" />
 
 #### **Development Tools**
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 #### **Creative Tools**
-<img src="https://skillicons.dev/icons?i=ps,blender,canva" />
+<img src="https://skillicons.dev/icons?i=ps,blender" />  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="48" height="48" title="Canva" />
+
 
 ---
 
