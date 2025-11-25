@@ -17,7 +17,7 @@
 
 🎵 Interests & Hobbies:
   - Listening to Music 🎧
-  - Admiring Automobiles 🏍️🔥
+  - Admiring Automobiles 🔥
   - Linux Terminal Aesthetics 🖥️
   - Open Source Exploration 🔓
 
@@ -68,17 +68,22 @@
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 #### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,arduino" />
 
 #### **Web Development**
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql" />
 
 #### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=gcp,docker,powershell,linux" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash,powershell" />
 
-#### **Tools & Creative**
-<img src="https://skillicons.dev/icons?i=git,github,blender,ps,canva" />
+#### **Development Tools**
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+#### **Creative Tools**
+<img src="https://skillicons.dev/icons?i=ps,blender,canva" />
 
 ---
 
