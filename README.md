@@ -56,7 +56,7 @@
   <a href="https://stackoverflow.com/users/30234371/sgt-azuredev" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
   </a>
-  <a href="https://www.instagram.com/astralunaris/" target="_blank">
+  <a href="https://www.instagram.com/sgt.azure44/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://discord.gg/sgt.azure" target="_blank">
